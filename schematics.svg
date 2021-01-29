@@ -1,0 +1,676 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="921.06641mm"
+   height="872.33423mm"
+   viewBox="0 0 921.06641 872.33422"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07, custom)"
+   sodipodi:docname="schematics.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.3777455"
+     inkscape:cx="2105.6762"
+     inkscape:cy="810.79565"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:snap-center="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:window-width="3200"
+     inkscape:window-height="1800"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(287.1074,262.43814)">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M -229.50692,-56.691908 V 50.92265"
+       id="path837" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M -213.27847,-33.050749 V 31.681359"
+       id="path839" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -213.27847,-0.68469499 h 81.63238 V -90.092746"
+       id="path841"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-weight:100;font-size:10.5833px;line-height:1.25;font-family:Billabong;-inkscape-font-specification:'Billabong Thin';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="-239.13223"
+       y="69.526947"
+       id="text845"><tspan
+         sodipodi:role="line"
+         id="tspan843"
+         x="-239.13223"
+         y="69.526947"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;stroke-width:0.264583"
+         rotate="0 0 0 0 0 0 0 0 0">8V - 40V</tspan><tspan
+         sodipodi:role="line"
+         x="-239.13223"
+         y="82.841995"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;stroke-width:0.264583"
+         rotate="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+         id="tspan1118">* read notes below</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M -131.64609,-0.68469499 V 52.953978"
+       id="path847"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -131.64609,-90.092746 85.85908,-0.396137"
+       id="path849" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -131.64609,52.953978 90.331425,-0.371045"
+       id="path851"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-weight:100;font-size:21.9649px;line-height:1.25;font-family:Billabong;-inkscape-font-specification:'Billabong Thin';letter-spacing:0px;word-spacing:0px;stroke-width:0.549123"
+       x="-11.288495"
+       y="-105.33915"
+       id="text859"><tspan
+         sodipodi:role="line"
+         id="tspan857"
+         x="-11.288495"
+         y="-105.33915"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;stroke-width:0.549123">LM2596</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect869"
+       width="153.1232"
+       height="74.873993"
+       x="-46.451408"
+       y="-150.58398" />
+    <text
+       xml:space="preserve"
+       style="font-weight:100;font-size:20.7769px;line-height:1.25;font-family:Billabong;-inkscape-font-specification:'Billabong Thin';letter-spacing:0px;word-spacing:0px;stroke-width:0.519425"
+       x="-17.301798"
+       y="123.63824"
+       id="text859-1"><tspan
+         sodipodi:role="line"
+         id="tspan857-1"
+         x="-17.301798"
+         y="123.63824"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;stroke-width:0.519425">OEP30Wx2</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3.0669;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect891"
+       width="168.5242"
+       height="169.41025"
+       x="-40.912575"
+       y="33.242264" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M -229.50692,-2.884629 H -286.1074"
+       id="path893" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M -286.1074,-2.884629 V -138.637 h 238.827542"
+       id="path895" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M -286.1074,-2.884629 V 179.60688 l 244.145884,-0.50664"
+       id="path897"
+       sodipodi:nodetypes="ccc" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect899"
+       width="304.93716"
+       height="204.74426"
+       x="328.02182"
+       y="-210.76311" />
+    <text
+       xml:space="preserve"
+       style="font-weight:100;font-size:21.9649px;line-height:1.25;font-family:Billabong;-inkscape-font-specification:'Billabong Thin';letter-spacing:0px;word-spacing:0px;stroke-width:0.549124"
+       x="366.15604"
+       y="-102.36887"
+       id="text859-5"><tspan
+         sodipodi:role="line"
+         id="tspan857-9"
+         x="366.15604"
+         y="-102.36887"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;stroke-width:0.549124">Raspberry Pi 4 Model B</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:100;font-size:10.5833px;line-height:1.25;font-family:Billabong;-inkscape-font-specification:'Billabong Thin';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="51.547421"
+       y="-283.46741"
+       id="text921"><tspan
+         sodipodi:role="line"
+         id="tspan919"
+         x="51.547421"
+         y="-283.46741"
+         style="stroke-width:0.264583" /></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:100;font-size:21.9649px;line-height:1.25;font-family:Billabong;-inkscape-font-specification:'Billabong Thin';letter-spacing:0px;word-spacing:0px;stroke-width:0.549124"
+       x="-40.682121"
+       y="-83.254509"
+       id="text859-8"><tspan
+         sodipodi:role="line"
+         id="tspan857-4"
+         x="-40.682121"
+         y="-83.254509"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;stroke-width:0.549124">-</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:100;font-size:21.9649px;line-height:1.25;font-family:Billabong;-inkscape-font-specification:'Billabong Thin';letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke-width:0.549124"
+       x="-41.121853"
+       y="-130.54753"
+       id="text859-8-8"><tspan
+         sodipodi:role="line"
+         id="tspan857-4-1"
+         x="-41.121853"
+         y="-130.54753"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#ff0000;fill-opacity:1;stroke-width:0.549124">+</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:100;font-size:21.9649px;line-height:1.25;font-family:Billabong;-inkscape-font-specification:'Billabong Thin';letter-spacing:0px;word-spacing:0px;fill:#ff0000;stroke-width:0.549124"
+       x="-37.386948"
+       y="185.30774"
+       id="text859-8-8-0"><tspan
+         sodipodi:role="line"
+         id="tspan857-4-1-3"
+         x="-37.386948"
+         y="185.30774"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#ff0000;stroke-width:0.549124">+</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:100;font-size:21.9649px;line-height:1.25;font-family:Billabong;-inkscape-font-specification:'Billabong Thin';letter-spacing:0px;word-spacing:0px;stroke-width:0.549124"
+       x="-38.327885"
+       y="59.904503"
+       id="text859-8-0"><tspan
+         sodipodi:role="line"
+         id="tspan857-4-4"
+         x="-38.327885"
+         y="59.904503"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;stroke-width:0.549124">-</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:100;font-size:13.3927px;line-height:1.25;font-family:Billabong;-inkscape-font-specification:'Billabong Thin';letter-spacing:0px;word-spacing:0px;stroke-width:0.334817"
+       x="-22.289406"
+       y="183.85042"
+       id="text859-4"><tspan
+         sodipodi:role="line"
+         id="tspan857-44"
+         x="-22.289406"
+         y="183.85042"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;stroke-width:0.334817">VCC</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:100;font-size:13.3927px;line-height:1.25;font-family:Billabong;-inkscape-font-specification:'Billabong Thin';letter-spacing:0px;word-spacing:0px;stroke-width:0.334817"
+       x="-27.304876"
+       y="57.687401"
+       id="text859-4-7"><tspan
+         sodipodi:role="line"
+         id="tspan857-44-6"
+         x="-27.304876"
+         y="57.687401"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;stroke-width:0.334817">GND</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1031"
+       width="249.71611"
+       height="146.92824"
+       x="357.47198"
+       y="41.984367" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 481.26525,-5.4563057 V 43.836341"
+       id="path1033" />
+    <text
+       xml:space="preserve"
+       style="font-weight:100;font-size:10.5833px;line-height:1.25;font-family:Billabong;-inkscape-font-specification:'Billabong Thin';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="496.39075"
+       y="22.940216"
+       id="text845-3"><tspan
+         sodipodi:role="line"
+         id="tspan843-1"
+         x="496.39075"
+         y="22.940216"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;stroke-width:0.264583"
+         rotate="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0">connected via 20 pin GPIO</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:100;font-size:20.5668px;line-height:1.25;font-family:Billabong;-inkscape-font-specification:'Billabong Thin';letter-spacing:0px;word-spacing:0px;stroke-width:0.514172"
+       x="362.33862"
+       y="121.08728"
+       id="text859-5-7"><tspan
+         sodipodi:role="line"
+         id="tspan857-9-5"
+         x="362.33862"
+         y="121.08728"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;stroke-width:0.514172">Audio Injector Sound Card</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 107.59572,-88.423258 H 246.06101 V -237.34851 h 108.02256 v 26.65345"
+       id="path1081"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 106.78477,-136.76482 h 118.337 v -124.67332 h 148.32284 v 51.23774"
+       id="path1083" />
+    <text
+       xml:space="preserve"
+       style="font-weight:100;font-size:21.9649px;line-height:1.25;font-family:Billabong;-inkscape-font-specification:'Billabong Thin';letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke-width:0.549124"
+       x="87.201683"
+       y="-130.54753"
+       id="text1097"><tspan
+         sodipodi:role="line"
+         id="tspan1095"
+         x="87.201683"
+         y="-130.54753"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#ff0000;fill-opacity:1;stroke-width:0.549124">+</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:100;font-size:21.9649px;line-height:1.25;font-family:Billabong;-inkscape-font-specification:'Billabong Thin';letter-spacing:0px;word-spacing:0px;stroke-width:0.549124"
+       x="90.083824"
+       y="-83.254509"
+       id="text1109"><tspan
+         sodipodi:role="line"
+         id="tspan1107"
+         x="90.083824"
+         y="-83.254509"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;stroke-width:0.549124">-</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:100;font-size:10.5833px;line-height:1.25;font-family:Billabong;-inkscape-font-specification:'Billabong Thin';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="111.06393"
+       y="-169.62892"
+       id="text845-3-2"><tspan
+         sodipodi:role="line"
+         x="111.06393"
+         y="-169.62892"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;stroke-width:0.264583"
+         id="tspan1083">- stepped down to 5.1V</tspan><tspan
+         sodipodi:role="line"
+         x="111.06393"
+         y="-156.31387"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;stroke-width:0.264583"
+         id="tspan1087">- connected to </tspan><tspan
+         sodipodi:role="line"
+         x="111.06393"
+         y="-142.99883"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;stroke-width:0.264583"
+         rotate="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+         id="tspan1091">Raspberry P<tspan
+   rotate="0 0 0 0 0 0 0 0 0 0 0 0"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;stroke-width:0.264583"
+   id="tspan1093">i via USB-C</tspan></tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:2.23744;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1131"
+       width="29.637877"
+       height="82.367821"
+       x="148.6496"
+       y="317.26593" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2.23744;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 177.65801,340.88523 40.90981,-23.6193 v 83.65386 l -40.0263,-23.1092"
+       id="path1133" />
+    <text
+       xml:space="preserve"
+       style="font-weight:100;font-size:13.3927px;line-height:1.25;font-family:Billabong;-inkscape-font-specification:'Billabong Thin';letter-spacing:0px;word-spacing:0px;stroke-width:0.334817"
+       x="82.908852"
+       y="50.629704"
+       id="text1141"><tspan
+         sodipodi:role="line"
+         id="tspan1139"
+         x="82.908852"
+         y="50.629704"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;stroke-width:0.334817"><tspan
+   style="fill:#ff2a7f"
+   id="tspan1395">SPR</tspan> -</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:100;font-size:13.3927px;line-height:1.25;font-family:Billabong;-inkscape-font-specification:'Billabong Thin';letter-spacing:0px;word-spacing:0px;stroke-width:0.334817"
+       x="82.336884"
+       y="178.58073"
+       id="text1145"><tspan
+         sodipodi:role="line"
+         id="tspan1143"
+         x="82.336884"
+         y="178.58073"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;stroke-width:0.334817"><tspan
+   style="fill:#ac939d"
+   id="tspan1399">SPR</tspan> <tspan
+   style="fill:#ff0000"
+   id="tspan1239">+</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:100;font-size:13.3927px;line-height:1.25;font-family:Billabong;-inkscape-font-specification:'Billabong Thin';letter-spacing:0px;word-spacing:0px;stroke-width:0.334817"
+       x="84.072853"
+       y="69.04686"
+       id="text1149"><tspan
+         sodipodi:role="line"
+         id="tspan1147"
+         x="84.072853"
+         y="69.04686"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;stroke-width:0.334817"><tspan
+   style="fill:#37c837"
+   id="tspan1381">SPL</tspan> -</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:100;font-size:13.3927px;line-height:1.25;font-family:Billabong;-inkscape-font-specification:'Billabong Thin';letter-spacing:0px;word-spacing:0px;stroke-width:0.334817"
+       x="83.409599"
+       y="193.37897"
+       id="text1153"><tspan
+         sodipodi:role="line"
+         id="tspan1151"
+         x="83.409599"
+         y="193.37897"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;stroke-width:0.334817"><tspan
+   style="fill:#ff00ff"
+   id="tspan1391">SPL</tspan> <tspan
+   style="fill:#ff0000"
+   id="tspan1237">+</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:100;font-size:13.3927px;line-height:1.25;font-family:Billabong;-inkscape-font-specification:'Billabong Thin';letter-spacing:0px;word-spacing:0px;stroke-width:0.334817"
+       x="86.77536"
+       y="162.07326"
+       id="text1157"><tspan
+         sodipodi:role="line"
+         id="tspan1155"
+         x="86.77536"
+         y="162.07326"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;stroke-width:0.334817"><tspan
+   style="fill:#ffcc00"
+   id="tspan1339">INL</tspan> <tspan
+   style="fill:#ff0000"
+   id="tspan1241">+</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:100;font-size:13.3927px;line-height:1.25;font-family:Billabong;-inkscape-font-specification:'Billabong Thin';letter-spacing:0px;word-spacing:0px;stroke-width:0.334817"
+       x="73.054039"
+       y="86.743683"
+       id="text1161"><tspan
+         sodipodi:role="line"
+         id="tspan1159"
+         x="73.054039"
+         y="86.743683"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;stroke-width:0.334817"><tspan
+   style="fill:#7900ff;fill-opacity:1"
+   id="tspan1285">AGND</tspan> -</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:100;font-size:13.3927px;line-height:1.25;font-family:Billabong;-inkscape-font-specification:'Billabong Thin';letter-spacing:0px;word-spacing:0px;stroke-width:0.334817"
+       x="85.764015"
+       y="146.41696"
+       id="text1165"><tspan
+         sodipodi:role="line"
+         id="tspan1163"
+         x="85.764015"
+         y="146.41696"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#ff6600;stroke-width:0.334817">INR <tspan
+   style="fill:#ff0000"
+   id="tspan1387">+</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:100;font-size:21.9649px;line-height:1.25;font-family:Billabong;-inkscape-font-specification:'Billabong Thin';letter-spacing:0px;word-spacing:0px;stroke-width:0.549124"
+       x="158.01192"
+       y="334.44666"
+       id="text859-8-0-5"><tspan
+         sodipodi:role="line"
+         id="tspan857-4-4-7"
+         x="158.01192"
+         y="334.44666"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;stroke-width:0.549124">-</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:100;font-size:21.9649px;line-height:1.25;font-family:Billabong;-inkscape-font-specification:'Billabong Thin';letter-spacing:0px;word-spacing:0px;fill:#ff0000;stroke-width:0.549124"
+       x="157.05212"
+       y="392.85437"
+       id="text859-8-8-0-1"><tspan
+         sodipodi:role="line"
+         id="tspan857-4-1-3-8"
+         x="157.05212"
+         y="392.85437"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#ff0000;stroke-width:0.549124">+</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:100;font-size:10.5833px;line-height:1.25;font-family:Billabong;-inkscape-font-specification:'Billabong Thin';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="378.80655"
+       y="78.713966"
+       id="text1247"><tspan
+         sodipodi:role="line"
+         id="tspan1245"
+         x="378.80655"
+         y="78.713966"
+         style="stroke-width:0.264583" /></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:100;font-size:13.3927px;line-height:1.25;font-family:Billabong;-inkscape-font-specification:'Billabong Thin';letter-spacing:0px;word-spacing:0px;stroke-width:0.334817"
+       x="364.45032"
+       y="70.192505"
+       id="text1161-9"><tspan
+         sodipodi:role="line"
+         id="tspan1159-7"
+         x="364.45032"
+         y="70.192505"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;stroke-width:0.334817">RCA ROUT</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:100;font-size:13.3927px;line-height:1.25;font-family:Billabong;-inkscape-font-specification:'Billabong Thin';letter-spacing:0px;word-spacing:0px;stroke-width:0.334817"
+       x="364.45032"
+       y="169.59659"
+       id="text1269"><tspan
+         sodipodi:role="line"
+         id="tspan1267"
+         x="364.45032"
+         y="169.59659"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;stroke-width:0.334817">RCA LOUT</tspan></text>
+    <path
+       style="fill:none;stroke:#ff6600;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 357.66999,63.408924 H 290.22021 L 119.73914,141.59734"
+       id="path1277"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:none;stroke:#ffcc00;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 357.5641,166.79739 119.71895,158.1216"
+       id="path1279"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#7900ff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 357.24483,176.16692 118.29202,82.870687"
+       id="path1281"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#7900ff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 358.58045,75.046908 118.29202,82.870687"
+       id="path1283"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-weight:100;font-size:20.7769px;line-height:1.25;font-family:Billabong;-inkscape-font-specification:'Billabong Thin';letter-spacing:0px;word-spacing:0px;stroke-width:0.519425"
+       x="144.45967"
+       y="308.26428"
+       id="text859-1-5"><tspan
+         sodipodi:role="line"
+         id="tspan857-1-3"
+         x="144.45967"
+         y="308.26428"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;stroke-width:0.519425">SPR</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:2.23744;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1363"
+       width="29.637877"
+       height="82.367821"
+       x="304.32944"
+       y="317.26593" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2.23744;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 333.33784,340.88523 40.90981,-23.6193 v 83.65386 l -40.0263,-23.1092"
+       id="path1365" />
+    <text
+       xml:space="preserve"
+       style="font-weight:100;font-size:21.9649px;line-height:1.25;font-family:Billabong;-inkscape-font-specification:'Billabong Thin';letter-spacing:0px;word-spacing:0px;stroke-width:0.549124"
+       x="313.69174"
+       y="334.44666"
+       id="text1369"><tspan
+         sodipodi:role="line"
+         id="tspan1367"
+         x="313.69174"
+         y="334.44666"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;stroke-width:0.549124">-</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:100;font-size:21.9649px;line-height:1.25;font-family:Billabong;-inkscape-font-specification:'Billabong Thin';letter-spacing:0px;word-spacing:0px;fill:#ff0000;stroke-width:0.549124"
+       x="312.73196"
+       y="392.85437"
+       id="text1373"><tspan
+         sodipodi:role="line"
+         id="tspan1371"
+         x="312.73196"
+         y="392.85437"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#ff0000;stroke-width:0.549124">+</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:100;font-size:20.7769px;line-height:1.25;font-family:Billabong;-inkscape-font-specification:'Billabong Thin';letter-spacing:0px;word-spacing:0px;stroke-width:0.519425"
+       x="300.1395"
+       y="308.26428"
+       id="text1377"><tspan
+         sodipodi:role="line"
+         id="tspan1375"
+         x="300.1395"
+         y="308.26428"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;stroke-width:0.519425">SPL</tspan></text>
+    <path
+       style="fill:none;stroke:#37c837;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 117.77733,65.194995 313.57827,327.99838"
+       id="path1379"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#ff00ff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 120.15233,189.23706 310.1372,385.57477"
+       id="path1389" />
+    <path
+       style="fill:none;stroke:#ff2a7f;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 120.08967,46.988515 h 23.91681 V 279.85288 h -16.62699 v 49.10294 h 28.12161"
+       id="path1393" />
+    <path
+       style="fill:none;stroke:#ac939d;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 120.1138,174.66065 h 15.53655 v 98.82117 h -20.72852 v 113.33734 h 39.69666"
+       id="path1397" />
+    <text
+       xml:space="preserve"
+       style="font-weight:100;font-size:10.5833px;line-height:1.25;font-family:Billabong;-inkscape-font-specification:'Billabong Thin';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="-274.38477"
+       y="464.25928"
+       id="text1105"><tspan
+         sodipodi:role="line"
+         id="tspan1103"
+         x="-274.38477"
+         y="464.25928"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;stroke-width:0.264583"></tspan><tspan
+         sodipodi:role="line"
+         x="-274.38477"
+         y="477.57431"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;stroke-width:0.264583"
+         id="tspan1108" /></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:100;font-size:10.5833px;line-height:1.25;font-family:Billabong;-inkscape-font-specification:'Billabong Thin';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="-286.8237"
+       y="487.8024"
+       id="text1112"><tspan
+         sodipodi:role="line"
+         id="tspan1110"
+         x="-286.8237"
+         y="487.8024"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;stroke-width:0.264583">Notes:</tspan><tspan
+         sodipodi:role="line"
+         x="-286.8237"
+         y="501.11743"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;stroke-width:0.264583"
+         id="tspan1116">- Look at the documentation for the recommended input voltage/amperage for your Raspberry Pi model</tspan><tspan
+         sodipodi:role="line"
+         x="-286.8237"
+         y="514.4325"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;stroke-width:0.264583"
+         id="tspan1114">https://www.raspberrypi.org/documentation/hardware/raspberrypi/power/README.md</tspan><tspan
+         sodipodi:role="line"
+         x="-286.8237"
+         y="527.74756"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;stroke-width:0.264583"
+         id="tspan1126">- The raspberry pi 4 Model B is not specifically required for the model. Any Model B board matching the </tspan><tspan
+         sodipodi:role="line"
+         x="-286.8237"
+         y="541.06256"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;stroke-width:0.264583"
+         id="tspan1137">model specs will work. However, note that the model was built assuming you have built in wifi. If you </tspan><tspan
+         sodipodi:role="line"
+         x="-286.8237"
+         y="554.37762"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;stroke-width:0.264583"
+         id="tspan1140">use a wifi adapter, the model may need to be modified to fir in the case as the usb ports might interfere </tspan><tspan
+         sodipodi:role="line"
+         x="-286.8237"
+         y="567.69269"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;stroke-width:0.264583"
+         id="tspan1142">with the enclosures radius measurements.</tspan><tspan
+         sodipodi:role="line"
+         x="-286.8237"
+         y="581.00775"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;stroke-width:0.264583"
+         id="tspan1148" /><tspan
+         sodipodi:role="line"
+         x="-286.8237"
+         y="594.32275"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;stroke-width:0.264583"
+         id="tspan1144">For Raspberry pi Specs refer to the documentation:</tspan><tspan
+         sodipodi:role="line"
+         x="-286.8237"
+         y="607.63782"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;stroke-width:0.264583"
+         id="tspan1146">https://www.raspberrypi.org/documentation/hardware/raspberrypi/mechanical/README.md </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:100;font-size:10.5833px;line-height:1.25;font-family:Billabong;-inkscape-font-specification:'Billabong Thin';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="366.77472"
+       y="-87.217896"
+       id="text845-0"><tspan
+         sodipodi:role="line"
+         x="366.77472"
+         y="-87.217896"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;stroke-width:0.264583"
+         rotate="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+         id="tspan1118-2">* read notes below</tspan></text>
+  </g>
+</svg>
