@@ -3,6 +3,8 @@ Click [here](https://www.youtube.com/watch?v=VPdPOVL8c1Q&list=PL9gEr35J45czlRLHX
 ![Karen](https://alfredo.lol/static/karen/img/karen_small.png)
 ### open source voice assistant
 
+![device](https://imgur.com/skUVfLH.gif)
+
 This repo contains the schematics, stl, and [openSCAD](https://www.openscad.org/) files used to create the Karen device in the [Karen video series](https://www.youtube.com/watch?v=VPdPOVL8c1Q&list=PL9gEr35J45czlRLHXhA3jShGG_jIrRprJ).
 
 The threads used for the lid are accomplished using [threadlib by Adrian Schlatter](https://github.com/adrianschlatter/threadlib).
@@ -27,13 +29,28 @@ All of the measurements for specific boards were taken using a digital caliper i
 ## The Bases
 ### This model is made up of different bases, each base is specifically made for a component pair, or components in the parts list above.
 
+![bases](https://imgur.com/TSgd5L3.png)
+
 - [rpi_base](https://github.com/AlfredoSequeida/karen-model/blob/master/rpi_base.stl): This is the base for the Audio Injector Sound Card and the Raspberry 4 Model B (any other 20 pin Raspberry Pi model B with built-in wifi works) as long as it marches the holes on the base. [If you need to modify this base, you can do so by visiting the docs, to find the mechanical specs for your model](https://www.raspberrypi.org/documentation/hardware/raspberrypi/mechanical/README.md). There is also a [handle](https://github.com/AlfredoSequeida/karen-model/blob/master/handle.stl) included that can be attached to the base as an easy way to take the entire build in and of of the enclosure easier.
+
+![rpi base](https://imgur.com/5AyzjRZ.png)
+
 - [speaker_base](https://github.com/AlfredoSequeida/karen-model/blob/master/speaker_base.stl): This is the base for the 79mm (3in) diameter speakers. If you want stereo audio, you need to print two (one for each speaker).
+
+![speaker base](https://imgur.com/BLicOsi.png)
+
 - [dual_speaker_base](https://github.com/AlfredoSequeida/karen-model/blob/master/dual_speaker_base.stl): This is the base for the two 40mm (1.5in) diameter speakers. One base fits both speakers, thus giving you a more compact design.
+
+![dual speaker base](https://imgur.com/byycuvg.png)
+
 - [elec_base](https://github.com/AlfredoSequeida/karen-model/blob/master/elec_base.stl): This is the electronics components base, which holds the 5.5mm diameter female DC adapter, the LM2596 DC-DC 3A Buck, and the OEP30Wx2 audio amplifier. These should be mounted using standoffs to allow room underneath the boards for wire solders.
+
+![electronics base](https://imgur.com/A75caZf.png)
 
 ## [The container](https://github.com/AlfredoSequeida/karen-model/blob/master/container.stl)
 ### The container is a container for the entire build. It's an easy way to give the whole build a more refined look if you don't like the exposed wire look. The container model is built for the full-size model using the two 79mm (3in) diameter speakers. If you want to fit in the smaller version, this can be easily accomplished using by changing the counter height (h) and the slot height (slot_height) in the openSCAD file.
+
+![container](https://imgur.com/GsqQ2G2.png)
 
 ## [The lid](https://github.com/AlfredoSequeida/karen-model/blob/master/lid.stl)
 ### if you want to add a lid to your build, the lid model is included. The lid has a Karen logo on the top to allow for sound to make it's way to the mic. If you want to modify the lid, make sure you download [threadlib by Adrian Schlatter](https://github.com/adrianschlatter/threadlib). This library is what was used in the openSCAD. Then you can make the modifications you need including removing the logo. If you want an easy way to add holes, there is a `lid_holes` module, which makes four 3mm radius holes on the top of the lid instead. Simply uncomment line 520, and remove/comment out the logic for the Karen logo.
